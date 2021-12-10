@@ -64,7 +64,7 @@ header nav a.active{
     color: #F7817F;
 }
 .home{
-    background: url('home2.jpg') no-repeat;
+    background: url(home2.jpg) no-repeat;
     background-position:center;
     min-height: 100vh;
     background-size: cover;
