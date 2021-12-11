@@ -94,7 +94,7 @@ header nav a.active{
     border: .1rem solid #fff;
     border-radius: 25px;
     position: relative;
-    top:28rem;    
+    top:20rem;    
     padding:10px; 
     
     
@@ -261,6 +261,7 @@ header nav a.active{
   background: #151414;
   position: relative;
 }
+
 .footer-cta {
   border-bottom: 1px solid #373636;
 }
@@ -273,6 +274,7 @@ header nav a.active{
 .cta-text {
   padding-left: 15px;
   display: inline-block;
+  padding: 2rem;
 }
 .cta-text h4 {
   color: #fff;
